@@ -1,0 +1,9 @@
+获取id的app
+  
+Device ID app名字
+  
+com.evozi.deviceid_1.3.2-8_minAPI14(nodpi).apk
+
+激活地址
+  
+https://www.google.com/android/uncertified/
